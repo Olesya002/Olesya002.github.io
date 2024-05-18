@@ -64,7 +64,7 @@ main{
   flex-direction: row;
   flex-wrap: nowrap;
   /* border: 1px solid black; */
-  justify-content: space-evenly;
+  justify-content: space-between;
 
 }
 
